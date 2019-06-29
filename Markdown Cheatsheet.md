@@ -78,7 +78,7 @@ defunkt/github-flavored-markdown#1
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
 ```
-![emoji](images\supportEmoji.PNG)
+![emoji](images/supportEmoji.PNG)
 GitHub supports emoji!
 To see a list of every image Github support, check out
 www.emoji-cheat-sheet.com
