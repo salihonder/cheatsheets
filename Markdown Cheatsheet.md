@@ -37,9 +37,12 @@ __This will also be bold__
 ```
 
 ### BLOCKQUOTES
+```
+As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
-
+```
+![emoji](images/blockquotes.PNG)
 ### IMAGES
 ```
 ![Alt Text](url)
@@ -56,7 +59,7 @@ would otherwise have special meaning in Markdown’s formating syntax.
 ```
 \*literal asterisks\*
 ```
-
+![emoji](images/backslash.PNG)
 ## GITHUB FLAVORED MARKDOWN
 GitHub.com uses its own version of the Markdown syntax.
 
@@ -74,11 +77,12 @@ defunkt/github-flavored-markdown#1
 ```
 
 ### EMOJI
+![emoji](images/supportEmoji.PNG)
 ```
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
 ```
-![emoji](images/supportEmoji.PNG)
+
 GitHub supports emoji!
 To see a list of every image Github support, check out
 www.emoji-cheat-sheet.com
@@ -89,7 +93,7 @@ function test() {
  console.log("look ma’, no spaces");
 }
 ```
-
+![emoji](images/function.PNG)
 ### TASK LISTS
 ```
 - [x] this is a complete item
@@ -101,7 +105,7 @@ supported
 unordered or ordered list
 supported)
 ```
-
+![emoji](images/tasklist.PNG)
 ### TABLES
 ```
 First Header | Second Header
@@ -109,3 +113,4 @@ First Header | Second Header
 Content cell 1 | Content cell 2
 Content column 1 | Content column 2
 ```
+![emoji](images/table.PNG)
